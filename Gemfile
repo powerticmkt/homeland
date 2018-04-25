@@ -1,10 +1,8 @@
 source 'https://rubygems.org'
 
-ruby '2.3.1'
-
 gemspec
 
-gem 'rails', '~> 5.0.0'
+gem 'rails'
 gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
